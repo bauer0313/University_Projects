@@ -1,5 +1,5 @@
 ## Glowscript Bouncing Ball Project  
-This project can be found at: https://www.glowscript.org/#/user/bauer0313/folder/MyPrograms/
+This project can be found at: https://www.glowscript.org/#/user/bauer0313/folder/MyPrograms/program/BouncingBallProject
 
 Programming using Glowscript VPython (https://www.glowscript.org/docs/VPythonDocs/index.html)
 
