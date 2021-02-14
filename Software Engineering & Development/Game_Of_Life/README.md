@@ -18,9 +18,9 @@ State	Calculate Transition	Apply Transition
 
 ### Files
 
-|   #   | File                                | Description                                                |
-| :---: | ----------------------------------- | ---------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)              | solution file.                                             |
-|   2   | [GOL_Input_File](./GOL_Input_File)  | Initial state (Generation 0) for game to be played         |
-|   3   | [gen_zero](./gen_zero)              | Initial state (Generation 0) for game to be played         |
+|   #   | File                                    | Description                                                |
+| :---: | --------------------------------------- | ---------------------------------------------------------- |
+|   1   | [main.cpp](./main.cpp)                  | Solution file                                              |
+|   2   | [GOL_Input_File](./GOL_Input_File.txt)  | Initial state (Generation 0) for game to be played         |
+|   3   | [gen_zero](./gen_zero.txt)              | Smaller test initial state (Generation 0) for game         |
       
