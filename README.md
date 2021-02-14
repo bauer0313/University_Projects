@@ -2,6 +2,6 @@
 This repository lists a few of the projects from university courses
 
 <ins>Software Engineering & Development</ins>  
+Glowscript Bouncing Ball Project  
 Game of Life  
-Bouncing Ball Project   
 Glowscript Solar System Project
