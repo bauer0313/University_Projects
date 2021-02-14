@@ -3,8 +3,6 @@
 //  @assignment: Program 4
 //  @filename: main.cpp
 //  @author Thomas Bauer
-//  @due date 10/15/2018
-//  @github repo: https://github.com/bauer0313/2143-Object-Oriented-Programming
 //  @description: main source file for running Game of Life program
 //
 
@@ -16,7 +14,7 @@
 
 #define CELLSIZE 10				
 
-using namespace std;			// uses standard template library
+using namespace std;				// uses standard template library
 using namespace sf;				// uses sfml library
 
 struct golCell : public Drawable {
@@ -122,8 +120,6 @@ public:
 				<< "// @filename: " << filename << endl
 				<< "// @produced from input file: " << inputFilename << endl
 				<< "// @author Thomas Bauer\n"
-				<< "// @due date 10/15/2018\n"
-				<< "// @github repo: https://github.com/bauer0313/2143-Object-Oriented-Programming \n"
 				<< "// @description: Output file used to print Game of Life program's designated (" 
 				<< genCount << "th) generation\n"
 				<< "// \n";
@@ -192,7 +188,7 @@ public:
 	}
 
 	//
-	//		Sets the following rules for the game and makes appropriate changes when called
+	// Sets the following rules for the game and makes appropriate changes when called
 	// 1.	Any live cell with fewer than two live neighbors dies, as if caused by under-population.
 	// 2.	Any live cell with more than three live neighbors dies, as if by overcrowding.
 	// 3.	Any live cell with two or three live neighbors lives on to the next generation.
@@ -258,10 +254,10 @@ public:
 
 int main(int argc, char **argv) {
 
-	GameOfLife GoLife(500, 500);			// create GameOfLife object with parameterized constructor
+	GameOfLife GoLife(500, 500);				// create GameOfLife object with parameterized constructor
 
 	GoLife.init(argv[1]);					// initiate the program with input file									
-	GoLife.runGolProgram(atoi(argv[2]));	// run for designated amount of generations
+	GoLife.runGolProgram(atoi(argv[2]));			// run for designated amount of generations
 	GoLife.print(argv[3]);					// print last generation to output file
 
 	system("pause");
