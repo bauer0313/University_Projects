@@ -13,8 +13,7 @@ Your implementation will not be an infinite two-dimensional orthogonal grid of s
 In class we discussed how to get from our current state to the next state by adding two matrices together, however we are going to use a different method to go from one generation to the next.  
 •	If you look below, the far left is the current "state" of the game, where the two values are: isAlive and neighborCount respectively.  
 •	You can traverse the game board and count each cells neighbors storing its neighbor-count within the cell.  
-•	Once each cell has its neighbors counted, you can apply the rules (killing 2 and spawning 2 in this example) and also reset the neighbor counts to zero.  
-State	Calculate Transition	Apply Transition  
+•	Once each cell has its neighbors counted, you can apply the rules (killing 2 and spawning 2 in this example) and also reset the neighbor counts to zero.    
 
 ### Files
 
