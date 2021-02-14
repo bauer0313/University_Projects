@@ -3,8 +3,6 @@
 // @assignment: Program 4
 // @filename: GOL_Input_File.txt
 // @author Thomas Bauer
-// @due date 10/15/2018
-// @github repo: https://github.com/bauer0313/2143-Object-Oriented-Programming
 // @description: Input file used to start Game of Life program's first generation
 //
 40 50
