@@ -5,16 +5,4 @@ This repository lists a few of the projects from university courses
 Game of Life  
 Minimum Spanning Tree Project  
 Bouncing Ball Project   
-Glowscript Solar System Project     
-
-<ins>Security</ins>  
-Simplified DES Algorithm Program  
-Resisting a Brute Force Attack  
-
-<ins>Architecture & Systems</ins>  
-POSIX Shell Program  
-Threads Project  
-Paging Project  
-
-<ins>Web-based Development</ins>  
-Online Candy Store Website
+Glowscript Solar System Project
