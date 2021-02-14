@@ -18,10 +18,9 @@ State	Calculate Transition	Apply Transition
 
 ### Files
 
-|   #   | File                       | Description                                                |
-| :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)     | solution file.                                             |
-|   2   | [input](./input)           | Test input file from problem statement                     |
-|   3   | [input2](./input2)         | Larger test input from udebug                              |
-|   4   | [input_hex](./input_hex)   | Test file for hexograms to make sure they were right size. |
-|   5   | [input_even](./input_even) | Test file to see if any hexograms were even.               
+|   #   | File                                | Description                                                |
+| :---: | ----------------------------------- | ---------------------------------------------------------- |
+|   1   | [main.cpp](./main.cpp)              | solution file.                                             |
+|   2   | [GOL_Input_File](./GOL_Input_File)  | Initial state (Generation 0) for game to be played         |
+|   3   | [gen_zero](./gen_zero)              | Initial state (Generation 0) for game to be played         |
+      
