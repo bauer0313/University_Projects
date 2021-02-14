@@ -1,5 +1,5 @@
 ## Glowscript Bouncing Ball Project  
-This project can be found at: [go](https://www.glowscript.org/#/user/bauer0313/folder/MyPrograms/program/BouncingBallProject){:target="_blank"}
+This project can be found at: [Glowscript Bouncing Ball](https://www.glowscript.org/#/user/bauer0313/folder/MyPrograms/program/BouncingBallProject)
 
 Physics Project: Bouncing a ball (a simple warm up application)  
 In this project a simple ball is created in 3D and dropped from a specific height above a floor. Recalling the simple equations of physics for the movement of bodies under a gravity.  
