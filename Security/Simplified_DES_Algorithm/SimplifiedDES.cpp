@@ -16,12 +16,12 @@ string permutation(string, string, int);
 int circLeftShift(unsigned int, unsigned int);
 
 int main() {
-	int k = 0;					//key
+	int k = 0;				//key
 	int num = 0;				//number for switch statement
-	int lhs;					//left hand side of binary number
-	int rhs;					//right hand side of binary number
-	int xor;					//result from xor operation
-	int ipLeft;					//left half of initial permutation
+	int lhs;				//left hand side of binary number
+	int rhs;				//right hand side of binary number
+	int xor;				//result from xor operation
+	int ipLeft;				//left half of initial permutation
 	int ipRight;				//right half of initial permutation
 	int newPermLeft;			//left half of new permutation
 	int newPermRight;			//right half of new permutation
@@ -36,12 +36,12 @@ int main() {
 	string rhsColumn;			//right hand side of the column
 	string binconv;
 	string plaintxt;			//plaintext inputted by user
-	string p10;					//10-bit permutation
+	string p10;				//10-bit permutation
 	string perm10;				//alternate 10-bit permutation variable
 	string perm8;				//8-bit permutation
 	string perm4;				//4-bit permutation
-	string k1;					//key #1
-	string k2;					//key #2
+	string k1;				//key #1
+	string k2;				//key #2
 	string newPerm;				//new permutation variable
 	string ipPerm;				//initial permutation variable
 	string invIP;				//inverse of initial permutation
