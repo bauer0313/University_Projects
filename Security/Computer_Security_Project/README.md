@@ -33,6 +33,6 @@ EXAMPLE: Initial PIN number selected: 241, attacker tries 0 to 49, then system c
 
 |   #   | File                                                              | Description                                                |
 | :---: | ----------------------------------------------------------------- | ---------------------------------------------------------- |
-|   1   | [Project Assignment Report.docx](./Project Assignment Report.docx)| Project report                                             |
+|   1   | [Project_Report.docx](./Project_Report.docx)| Project report                                             |
 |   2   | [compsec_data_output.xlsx](./compsec_data_output.xlsx)            | Graph output data                                          |
 |   2   | [CompSecProject.cpp](./CompSecProject.cpp)                        | Solution file                                              |
