@@ -1,7 +1,8 @@
 ## A Brute Force Test   
 ### Description:
 
-Think about the following scenario:  
+Given the following scenario:  
+
 SYSTEM: An ATM requires a four digit pin-number (0 to 9999).  
 
 ATTACK: A hacker is trying to find a PIN number to access the ATM system by applying a
