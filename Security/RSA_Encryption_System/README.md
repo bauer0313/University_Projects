@@ -24,7 +24,8 @@ For M I got the original message: 20239981.
 
 
 
-Output: <img src="output.png" width="500">
+Output: 
+<img src="output.png" width="500">
  
 
 
