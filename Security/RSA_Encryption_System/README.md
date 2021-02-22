@@ -1,9 +1,7 @@
 ## RSA Encryption System  
 ### Description:
 
-Network Security Final
-CMPS 4663
-Thomas Bauer
+Network Security Final Project  
 
 Given the M number: M20239981  
 Using the last 3 digits: 981 as our value for e, the encryption key.  
