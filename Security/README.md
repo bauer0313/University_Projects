@@ -1,7 +1,7 @@
 ## Security
 
-Computer Security Project  
+#### Computer Security Project  
 
-Simplified DES Algorithm  
+#### Simplified DES Algorithm  
 
-RSA Encryption Systtem
+#### RSA Encryption Systtem
