@@ -1,16 +1,16 @@
 ## A Brute Force Test   
 ### Description:
 
-Think about the following scenario:
-SYSTEM: An ATM requires a four digit pin-number (0 to 9999).
+Think about the following scenario:  
+SYSTEM: An ATM requires a four digit pin-number (0 to 9999).  
 ATTACK: A hacker is trying to find a PIN number to access the ATM system by applying a
 brute force attack. The hacker believes that he can guess the pin number in about 5000 tries, so
 he starts with the value zero and without knowledge of any defense mechanism keeps
 incrementing the pin by one. After trying 10,000 times, the attacker may think that the user
 changed his PIN number during the attack, so he will try again the full exhaustive search 4 more
-times and then give up.
+times and then give up.  
 DEFENSE: The security administrator for the ATM system implemented a mechanism that will
-randomly change the PIN number if there are 50 wrong attempts.
+randomly change the PIN number if there are 50 wrong attempts.  
 PROJECT: In order to verify how good the defense system is, the program starts by randomly 
 choosing a numeric PIN of length 4 digits (in the range 0 to 9,999). The same
 program will run an exhaustive search to find the chosen pin, starting with value zero. The
@@ -23,7 +23,7 @@ of attempts to 25 and rerunning the test. The report contains the results of all
 average number of iterations required to guess the correct PIN number, and a graph
 (one for 50 allowed attempts and one for 25 attempts) plotting all the tests
 results as a percentage of success against the maximum number of guesses, which implies 100%
-will happen when the attacker is unable to find the PIN number as a function of the trial number.  
+will happen when the attacker is unable to find the PIN number as a function of the trial number.    
 
 EXAMPLE: Initial PIN number selected: 241, attacker tries 0 to 49, then system changes PIN to
 125, attacker tries 50 to 99, system changes again and so on.
